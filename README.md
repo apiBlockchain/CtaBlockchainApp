@@ -87,9 +87,11 @@ You may be asked to login again. After login, you will land on the <b>Bluemix Da
 
 ## Deploy the App
 
-<b>1. Click on the 'Deploy to Bluemix' button shown below (The button is located on this very webpage right below this bullet item - do NOT look for it within your bluemix account!).</b>
+<b>1. Click on the 'Create Toolchain' button shown below (The button is located on this very webpage right below this bullet item - do NOT look for it within your bluemix account!).</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/apiBlockchain/GscLabBlockchainApp.git)
+<p><a href="https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com//IBM-Bluemix/insurance-toolchain.git"><img src="/IBM-Bluemix/insurance-toolchain/raw/master/.bluemix/create_toolchain_button.png" alt="Deploy To Bluemix" style="max-width:100%;"></a></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Deploy to Bluemix](https://developer.ibm.com/devops-services/wp-content/uploads/sites/42/2016/05/create_toolchain_button.png)](https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/apiBlockchain/GscLabBlockchainApp.git)
 
 <b>2. Log in with your Bluemix account.</b>
 
