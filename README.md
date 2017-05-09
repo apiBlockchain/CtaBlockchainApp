@@ -89,7 +89,7 @@ You may be asked to login again. After login, you will land on the <b>Bluemix Da
 
 <b>1. Click on the 'Deploy' button shown below (The button is located on this very webpage right below this bullet item - do NOT look for it within your bluemix account!).</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/apiBlockchain/GscLabBlockchainApp.git)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://console.ng.bluemix.net/devops/setup/deploy?repository=https://github.com/apiBlockchain/GscLabBlockchainApp.git)
 
 <b>2. Log in with your Bluemix account.</b>
 
